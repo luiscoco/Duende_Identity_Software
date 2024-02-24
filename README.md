@@ -1,2 +1,8 @@
-# Duende_Identity_Software
-Duende Identity Sofware
+# Duende Identity Sofware
+
+https://github.com/DuendeSoftware
+
+https://github.com/DuendeSoftware/Samples/tree/main
+
+
+
