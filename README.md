@@ -1,6 +1,8 @@
 # Duende Identity Sofware
 
-https://duendesoftware.com/products/communityedition
+**Securing API with Duende Server (Identity Server 6)**: https://www.youtube.com/watch?v=ScapopQurI8
+
+**Identity Server Community Edition**https://duendesoftware.com/products/communityedition
 
 https://docs.duendesoftware.com/identityserver/v6/quickstarts/
 
